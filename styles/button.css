@@ -1,0 +1,30 @@
+#bt_dark_mode{
+    width: 2.25rem;
+    height: 2.25rem;
+    background-color: var(--color-grey-8);
+    border: transparent;
+}
+
+.bt_genero_musical{
+    font-size: var(--font-3);
+    color: var(--color-grey-2);
+    background-color: var(--color-grey-8);
+    border: transparent;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.bt_genero_musical:focus{
+    background-color: var(--color-grey-1);
+    color: var(--color-grey-8);
+}
+
+.bt_comprar{
+    font-size: var(--font-3);
+    color: var(--color-grey-2);
+    background-color: var(--color-grey-7);
+    border: transparent;
+    border-radius: 2px;
+    margin-right: 10px;
+    padding: 8px;
+}

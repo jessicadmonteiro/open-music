@@ -1,0 +1,16 @@
+.titulo_filtro_valor{
+    color: var(--color-grey-2);
+}
+
+.titulo_genero_musical{
+    color: var(--color-grey-2);
+    margin-bottom: 1.56rem;
+}
+
+.titulo_color_grey1{
+    color: var(--color-grey-1);
+}
+
+.titulo_font2{
+    font-size: var(--font-2);
+}

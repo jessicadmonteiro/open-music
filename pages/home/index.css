@@ -1,1 +1,35 @@
-/* Desenvolva sua estilização aqui ... */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input_range{
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5rem;
+    list-style: none;
+}
+
+span{
+    display: flex;
+    justify-content: left;
+    align-items:center;
+}
+
+span > p{
+    color: var(--color-grey-2);
+    font-size: var(--font-4);
+    padding: 0.625rem;
+}
+
+.valor{
+    font-size: var(--font-3);
+}
+
+
+ 
